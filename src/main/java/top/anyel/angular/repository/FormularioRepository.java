@@ -1,7 +1,7 @@
-package com.liseth.angular.repository;
+package top.anyel.angular.repository;
 
 
-import com.liseth.angular.model.Formulario;
+import top.anyel.angular.model.Formulario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

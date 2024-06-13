@@ -1,4 +1,4 @@
-package com.liseth.angular.config;
+package top.anyel.angular.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

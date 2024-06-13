@@ -1,7 +1,7 @@
-package com.liseth.angular.service;
+package top.anyel.angular.services;
 
-import com.liseth.angular.model.Formulario;
-import com.liseth.angular.repository.FormularioRepository;
+import top.anyel.angular.model.Formulario;
+import top.anyel.angular.repository.FormularioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

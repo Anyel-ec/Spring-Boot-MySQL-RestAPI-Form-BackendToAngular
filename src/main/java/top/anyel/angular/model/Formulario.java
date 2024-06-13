@@ -1,4 +1,4 @@
-package com.liseth.angular.model;
+package top.anyel.angular.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

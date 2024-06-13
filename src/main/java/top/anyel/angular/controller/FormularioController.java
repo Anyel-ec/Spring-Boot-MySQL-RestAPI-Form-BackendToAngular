@@ -1,7 +1,7 @@
-package com.liseth.angular.controller;
+package top.anyel.angular.controller;
 
-import com.liseth.angular.model.Formulario;
-import com.liseth.angular.service.FormularioService;
+import top.anyel.angular.model.Formulario;
+import top.anyel.angular.services.FormularioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
